@@ -1,0 +1,7 @@
+Back_black is the code for converting images background black
+Ab_model for Lab color Modeling
+Corr_Err_2 correlation between different indices
+
+My all images name were D1.jpg,...Dn.jpg.
+
+Hope you will understand
